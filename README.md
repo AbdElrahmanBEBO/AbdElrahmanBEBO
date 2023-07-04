@@ -1,34 +1,11 @@
-
-![developer](https://github.com/AbdElrahmanBEBO/AbdElrahmanBEBO/assets/80596612/a30abbb1-b5da-4f23-b579-07b5efe58b37)
-
-
-<font size="7">***technologies 👋***</font>
-
-[![N|Solid](https://icongr.am/devicon/html5-original-wordmark.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/css3-original-wordmark.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/javascript-original.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/jquery-plain-wordmark.svg?size=50&color=ff0000)]() 
-
-[![N|Solid](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=712cf9)]() [![N|Solid](https://icongr.am/devicon/codeigniter-plain-wordmark.svg?size=50&color=ed6536)]() [![N|Solid](https://icongr.am/devicon/apache-line-wordmark.svg?size=50&color=f87d2a)]() [![N|Solid](https://icongr.am/devicon/mysql-original-wordmark.svg?size=50)]()
-
-[![N|Solid](https://icongr.am/devicon/java-original-wordmark.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/php-original.svg?size=50)]()  [![N|Solid](https://icongr.am/devicon/cplusplus-original.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/python-original.svg?size=50)]()
-
-[![N|Solid](https://icongr.am/devicon/react-original-wordmark.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=0011ff)]() [![N|Solid](https://icongr.am/devicon/git-plain-wordmark.svg?size=50&color=f14e32)]() [![N|Solid](https://icongr.am/devicon/npm-original-wordmark.svg?size=50)]()
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
 <h3 align="center">A passionate Full-Stack developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanbebo&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanbebo" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdelrahman-mohamed-577069203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-mohamed-577069203" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/></a>
@@ -55,7 +32,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanbebo&show_icons=true&locale=en&layout=compact" alt="abdelrahmanbebo" /></p>
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanbebo&show_icons=true&locale=en&layout=compact" alt="abdelrahmanbebo" width="500" height="200"/></p>
+
+<p><img align="right" src="https://github.com/AbdElrahmanBEBO/AbdElrahmanBEBO/assets/80596612/a30abbb1-b5da-4f23-b579-07b5efe58b37" alt="abdelrahmanbebo" width="250" height="250"/></p>
