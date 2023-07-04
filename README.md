@@ -6,4 +6,4 @@
 
 [![N|Solid](https://icongr.am/devicon/java-original-wordmark.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/php-original.svg?size=50)]()  [![N|Solid](https://icongr.am/devicon/cplusplus-original.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/python-original.svg?size=50)]()
 
-[![N|Solid](https://icongr.am/devicon/react-original-wordmark.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/github-original.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/git-plain-wordmark.svg?size=50&color=f14e32)]() [![N|Solid](https://icongr.am/devicon/npm-original-wordmark.svg?size=50)]()
+[![N|Solid](https://icongr.am/devicon/react-original-wordmark.svg?size=50)]() [![N|Solid](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=0011ff)]() [![N|Solid](https://icongr.am/devicon/git-plain-wordmark.svg?size=50&color=f14e32)]() [![N|Solid](https://icongr.am/devicon/npm-original-wordmark.svg?size=50)]()
