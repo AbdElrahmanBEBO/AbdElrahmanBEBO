@@ -1,7 +1,7 @@
 <p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanbebo&show_icons=true&locale=en&layout=compact" alt="abdelrahmanbebo" height="200" width="300"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanbebo&" alt="abdelrahmanbebo" height="200" width="350"/>  
-  <img  src="https://github-readme-stats.vercel.app/api?username=abdelrahmanbebo&show_icons=true&locale=en" alt="abdelrahmanbebo" height="200" width="330"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanbebo&show_icons=true&locale=en&layout=compact" alt="abdelrahmanbebo" height="150" width="300"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanbebo&" alt="abdelrahmanbebo" height="150" width="340"/>  
+  <img  src="https://github-readme-stats.vercel.app/api?username=abdelrahmanbebo&show_icons=true&locale=en" alt="abdelrahmanbebo" height="150" width="330"/>
 </p> 
 
 
